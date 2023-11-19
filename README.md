@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @ManhThanhz
-- 👀 I’m interested in Coding and Endlish
-- 🌱 I’m currently learning C++
-- 📫 Email: nguyenmanhthanh14@gmail.com
-- 📞 Phone: +84929526029
